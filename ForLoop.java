@@ -33,7 +33,6 @@ public class ForLoop {
             System.out.println("* * *");
             System.out.println("* * * *");
             System.out.println("* * * * *");
-
         }
         for (int a = 0; a <= 0; a++) {
             System.out.println("    *   ");
@@ -41,7 +40,6 @@ public class ForLoop {
             System.out.println("  * * * ");
             System.out.println(" * * * *");
             System.out.println("* * * * *");
-
         }
         for (int a = 0; a <= 0; a++) {
             System.out.println("         *");
@@ -49,8 +47,60 @@ public class ForLoop {
             System.out.println("     * * *");
             System.out.println("   * * * *");
             System.out.println(" * * * * *");
+        }
+        for (int a = 0; a <= 0; a++) {
+            System.out.println("    *   ");
+            System.out.println("   * *  ");
+            System.out.println("  * * * ");
+            System.out.println(" * * * *");
+            System.out.println("* * * * *");
+            System.out.println(" * * * *");
+            System.out.println("  * * * ");
+            System.out.println("   * *  ");
+            System.out.println("    *   ");
+            }
+        for (int a = 0; a <= 0; a++) {
+            System.out.println(" * * * * *");
+            System.out.println(" *       *");
+            System.out.println(" *       *");
+            System.out.println(" *       *");
+            System.out.println(" * * * * *");
+        }
+        for (int a = 0; a <= 0; a++) {
+            System.out.println("* ");
+            System.out.println(" * ");
+            System.out.println("  *");
+            System.out.println("   *");
+            System.out.println("    *");
+        }
+        for (int a = 0; a <= 0; a++) {
+            System.out.println("    *");
+            System.out.println("   * ");
+            System.out.println("  *");
+            System.out.println(" *");
+            System.out.println("*");
+        }
 
-
+            for (int a = 0; a <= 0; a++) {
+                System.out.println("    *");
+                System.out.println("   *");
+                System.out.println("  *");
+                System.out.println(" *");
+                System.out.println("*");
+            }
+            for (int a = 0; a <= 0; a++) {
+                System.out.println("    *");
+                System.out.println("   * ");
+                System.out.println("  *");
+                System.out.println(" *");
+                System.out.println("*");
+            }
+            for (int a = 0; a <= 0; a++) {
+            System.out.println("*        * ");
+            System.out.println("  *    * ");
+            System.out.println("     *    ");
+            System.out.println("  *    * ");
+            System.out.println("*        * ");
         }
     }
 }
